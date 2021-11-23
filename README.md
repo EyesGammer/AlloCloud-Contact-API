@@ -1,5 +1,5 @@
-# AlloCloud API - Contacts - Octup!
-- [AlloCloud API](#allocloud-api---Contacts---octup!)
+# AlloCloud API Contacts
+- [AlloCloud API](#allocloud-api-contacts)
 	- [0. Descriptor](#0-descriptor)
 	- [1. Connection](#1-connection)
 	- [2. Add Contact](#2-add-contact)
